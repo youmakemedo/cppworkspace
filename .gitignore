@@ -1,0 +1,6 @@
+#cpp temp
+*.exe
+*.exe~
+*.out
+
+.vscode/*
